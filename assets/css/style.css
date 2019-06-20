@@ -1,0 +1,21 @@
+body {
+    background-image: url('../images/bg.png');
+}
+
+nav {
+    border-bottom: 2px solid #ddd;
+}
+
+.navbar-brand {
+    background: #4aaaa5;
+    color: #fff;
+}
+
+a {
+    color: #777;
+}
+
+footer {
+    color: white;
+    border-top: 8px solid #4aaaa5;
+}
