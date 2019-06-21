@@ -8,14 +8,23 @@ nav {
 
 .navbar-brand {
     background: #4aaaa5;
-    color: #fff;
-}
+    color: #fff;}
 
 a {
     color: #777;
 }
 
+#content {
+    border: 2px solid #ddd;
+}
+
+h3 {
+    color: #4aaaa5;
+    border-bottom: 2px solid #ddd;
+}
+
 footer {
+    background: #444;
     color: white;
     border-top: 8px solid #4aaaa5;
 }
