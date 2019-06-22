@@ -23,6 +23,12 @@ h3 {
     border-bottom: 2px solid #ddd;
 }
 
+.btn {
+    background: #4aaaa5;
+    font-size: 14pt;
+    border: 0;
+}
+
 footer {
     background: #444;
     color: white;
