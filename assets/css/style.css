@@ -32,7 +32,8 @@ h3 {
 .post-content {
     background: #4aaaa5;
     color: #fff;
-    
+    position: absolute;
+    top: 80%;
 }
 
 footer {
